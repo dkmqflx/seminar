@@ -8,7 +8,7 @@
 
 - continuous integration : 코드를 빌드하고 테스트하고 합칩니다.
 
-- continuous delivery : 해당 레포지토리에 릴리즈 합니다.
+- continuous delivery : 해당 레포지토리에 릴리즈 합니다. (즉, master 브랜치에 작업한 브랜치를 머지하는 것)
 
 - continuous deployment : 이를 프로덕션, 즉 실제 서비스에 배포합니다.
 
