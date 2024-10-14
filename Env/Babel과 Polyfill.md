@@ -52,16 +52,6 @@
 
 - 프리셋은 다양한 플러그인들을 한데 모아서 만들어준 집합 관계같은 것으로 프리셋을 활용하면 매번 번거롭게 플러그인을 설치할 필요 없이 한번에 바벨 트랜스파일링을 진행할 수 있다.
 
-## Babel
-
-- **[What is Babel? - Babel is a JavaScript compiler](https://babeljs.io/docs/)**
-
-> Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments. Here are the main things Babel can do for you:
-
-- [바벨(Babel)](https://babeljs.io/)은 [트랜스파일러(transpiler)](https://en.wikipedia.org/wiki/Source-to-source_compiler)로, ES6 이상의 자바스크립트 코드를 구 표준을 준수하는 코드로 바꿔준다.
-
-- 바벨을 통해서 각 브라우저 환경에 맞게 ES6를 ES5으로 다운그레이드 시켜서 ES6의 새로운 기능들을 사용할 수 있다.
-
 <br/>
 
 ## Polyfill
